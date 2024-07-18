@@ -118,15 +118,15 @@ const features = [
     large: true,
   },
   {
-    title: "Performance first",
+    title: "c first",
     description:
-      "Built on [Next.js](https://nextjs.org/) primitives like `@next/font` and `next/image` for stellar performance.",
+      "z",
     demo: <WebVitals />,
   },
   {
-    title: "One-click Deploy",
+    title: "c",
     description:
-      "Jumpstart your next project by deploying Precedent to [Vercel](https://vercel.com/) in one click.",
+      "c",
     demo: (
       <a href={DEPLOY_URL}>
         <Image
