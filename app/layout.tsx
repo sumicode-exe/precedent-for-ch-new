@@ -7,10 +7,10 @@ import { Suspense } from "react";
 import { Analytics as VercelAnalytics } from "@vercel/analytics/react";
 
 export const metadata = {
-  title: "Precedent - Building blocks for your Next.js project",
+  title: "CYBERHERTZ",
   description:
-    "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-  metadataBase: new URL("https://precedent.dev"),
+    "Reasearch and Consultation in Data Science, CyberSecurity, AI/ML. Policy Advocacy and Tech Solutions",
+  metadataBase: new URL("www.cyberhertz.in"),
 };
 
 export default async function RootLayout({
