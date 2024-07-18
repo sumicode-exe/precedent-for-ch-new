@@ -73,7 +73,7 @@ export default async function Home() {
                 strokeLinejoin="round"
               />
             </svg>
-            <p>DCALL NOW</p>
+            <p>CALL NOW</p>
           </a>
           <a
             className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-gray-300 bg-white px-5 py-2 text-sm text-gray-600 shadow-md transition-colors hover:border-gray-800"
@@ -112,9 +112,9 @@ export default async function Home() {
 
 const features = [
   {
-    title: "Beautiful, reusable components",
+    title: "ch",
     description:
-      "Pre-built beautiful, a11y-first components, powered by [Tailwind CSS](https://tailwindcss.com), [Radix UI](https://www.radix-ui.com), and [Framer Motion](https://framer.com/motion). Used in production on [Dub.co](https://dub.co).",
+      "ds and cs",
     large: true,
   },
   {
