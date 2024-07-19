@@ -38,7 +38,7 @@ export default function Home() {
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
-          href="team.cyberhertz.in"
+          href="http://team.cyberhertz.in"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -55,7 +55,7 @@ export default function Home() {
         </a>
 
         <a
-          href="projects.cyberhertz.in"
+          href="http://projects.cyberhertz.in"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
           target="_blank"
           rel="noopener noreferrer"
@@ -72,7 +72,7 @@ export default function Home() {
         </a>
 
         <a
-          href="blog.cyberhertz.in"
+          href="http://blog.cyberhertz.in"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
