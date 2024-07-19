@@ -30,7 +30,7 @@ export default function Home() {
           //className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/logo.png"
           alt=""
-          width={200}
+          width={600}
           height={80}
           priority
         />
