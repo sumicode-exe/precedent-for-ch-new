@@ -67,7 +67,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Look at our pwork and ongoing projects in research, Consultancy and policy advocacy 
+            Look at our work and ongoing projects in Research, Consultancy and Policy Advocacy 
           </p>
         </a>
 
@@ -101,7 +101,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Our Contact info 
+            Our Contact info.
           </p>
         </a>
       </div>
