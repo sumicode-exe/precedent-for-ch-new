@@ -31,7 +31,7 @@ export default function Home() {
           src="/logo.png"
           alt=""
           width={600}
-          height={80}
+          height={200}
           priority
         />
       </div>
