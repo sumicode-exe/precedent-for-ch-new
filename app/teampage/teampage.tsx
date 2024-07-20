@@ -1,7 +1,21 @@
 import Image from "next/image";
 import Link from "next/link";
+// app/teampage/teampage.tsx
+import React from 'react';
+
+
+
+export default TeamPage;
 
 export default function Home() {
+    const TeamPage: React.FC = () => {
+        return (
+          <div>
+            <h1>Meet the Team</h1>
+            <p>This is the team page.</p>
+          </div>
+        );
+      };
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
